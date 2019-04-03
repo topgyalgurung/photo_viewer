@@ -1,4 +1,4 @@
 # photo-viewer
 
-#Group Project CSCI 435: Database Management
+    Group Project CSCI 435: Database Management
 
